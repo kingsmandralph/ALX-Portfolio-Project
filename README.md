@@ -33,6 +33,9 @@ To get instructions on how to activate your API key to get it up and running, cl
 ![Image](https://github.com/kingsmandralph/simple-api-weatherapp/blob/main/weather-image.png)
 
 
+# *NOTE*
+If the weather-app takes too much time to load, simply clone the repository and run it on your browser, preferably Microsoft Edge. Don't forget to allow it *know your location*
 
+### Reference outsourced: StackUp Projects.
 
 
